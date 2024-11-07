@@ -4,12 +4,15 @@
 //Web APIs > console API
 console.log("Hello world!");
 
+//2. Variable, rw(read/write)
+//let added in ES6
 //var 사용하지 말 것.
-//3. Constants -immutable
+// let const
+
+//3. Constant -immutable r(read, only)
 const daysInWeek = 7;
 const maxNumber = 9;
 
-// let const
 
 //4. Variable types
 //primitive, single item: number, string, boolean, null, undefined, symbol
